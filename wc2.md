@@ -48,7 +48,7 @@ permalink: /web-comp2/
 
 <body>
     <pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher">
-        <pb-document id="document1" path="test/kant_rvernunft_1781.TEI-P5.xml" odd="dta"></pb-document>
+        <pb-document id="document1" path="playground/Die_Natur_der_Harmonik_und_der_Metrik_tei.xml" odd="dta"></pb-document>
         <pb-progress></pb-progress>
         <!-- Output the document title -->
         <pb-view src="document1" xpath="//teiHeader/fileDesc/titleStmt/title">

@@ -6,6 +6,7 @@ permalink: /web-comp1/
 
 # Test with the pb-mei component including demo files and ddd's files
 
+The fist file is from [MEI Sample Encodings repository](https://github.com/music-encoding/sample-encodings) and the others from from the ddd project. Both are uploaded with a raw.github adress but only the MEI Sample works.
 
 <head>
     <meta charset="UTF-8">
@@ -43,10 +44,8 @@ permalink: /web-comp1/
 <body>
     	<pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher">
 		<main>
-            <p>This first file is a sample file provided by the Music Encoding Initiative on Github.</p>
 		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
 		    </pb-mei>
-            <p>Those next files are from our projet, but don't render correctly.</p>
 		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/RIE1880-0017-02.mei">
 		    </pb-mei>
 		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/RIE1880-0017-02.mei">

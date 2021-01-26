@@ -1,0 +1,695 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns='http://www.tei-c.org/ns/1.0'>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type='main'>Die Natur der Harmonik und der Metrik</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: fabianmoss@gmail.com</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile xml:id='facs_13'>
+		<surface ulx='0' uly='0' lrx='1444' lry='2597'>
+			<graphic url='Hauptmann - 1853 - Die Natur der Harmonik und der Metrik-0020.jpg' width='1444px' height='2597px'/>
+			<zone points='170,710 1222,710 1222,774 170,774' rendition='TextRegion' subtype='heading' xml:id='facs_13_TextRegion_1610400076668_3016'>
+				<zone points='521,748 876,747 876,719 844,700 521,699' rendition='Line' xml:id='facs_13_r1l1'/>
+			</zone>
+			<zone points='170,774 1222,774 1222,1306 170,1306' rendition='TextRegion' subtype='paragraph' xml:id='facs_13_TextRegion_1610400076668_3015'>
+				<zone points='232,931 1227,922 1177,884 753,902 311,890 232,860' rendition='Line' xml:id='facs_13_r1l2'/>
+				<zone points='163,978 1158,995 1221,985 1221,939 163,949' rendition='Line' xml:id='facs_13_r1l3'/>
+				<zone points='167,1034 1226,1034 1226,1003 1079,988 167,1003' rendition='Line' xml:id='facs_13_r1l4'/>
+				<zone points='165,1088 692,1069 1135,1099 1223,1091 1223,1042 165,1055' rendition='Line' xml:id='facs_13_r1l5'/>
+				<zone points='171,1138 1222,1139 1184,1100 171,1106' rendition='Line' xml:id='facs_13_r1l6'/>
+				<zone points='174,1194 1228,1195 1228,1156 1031,1148 174,1155' rendition='Line' xml:id='facs_13_r1l7'/>
+				<zone points='171,1251 718,1259 829,1226 938,1259 1217,1260 1208,1204 720,1228 171,1204' rendition='Line' xml:id='facs_13_r1l8'/>
+				<zone points='168,1300 951,1299 951,1266 910,1252 168,1260' rendition='Line' xml:id='facs_13_r1l9'/>
+			</zone>
+			<zone points='170,1306 1222,1306 1222,1464 170,1464' rendition='TextRegion' subtype='paragraph' xml:id='facs_13_TextRegion_1610400066058_3011'>
+				<zone points='249,1355 1226,1347 1226,1315 1173,1308 249,1308' rendition='Line' xml:id='facs_13_r1l10'/>
+				<zone points='164,1400 1227,1402 1190,1356 164,1364' rendition='Line' xml:id='facs_13_r1l11'/>
+				<zone points='173,1460 1223,1458 1206,1413 173,1412' rendition='Line' xml:id='facs_13_r1l12'/>
+			</zone>
+			<zone points='170,1464 1222,1464 1222,1677 170,1677' rendition='TextRegion' subtype='paragraph' xml:id='facs_13_TextRegion_1610400062505_3007'>
+				<zone points='258,1512 1229,1506 1229,1476 1171,1467 258,1468' rendition='Line' xml:id='facs_13_r1l13'/>
+				<zone points='175,1563 1224,1554 1191,1516 1022,1540 175,1524' rendition='Line' xml:id='facs_13_r1l14'/>
+				<zone points='171,1619 1222,1619 1222,1579 1176,1572 171,1579' rendition='Line' xml:id='facs_13_r1l15'/>
+				<zone points='172,1667 465,1666 465,1647 447,1636 407,1636 399,1628 368,1635 360,1627 306,1627 286,1637 243,1637 172,1627' rendition='Line' xml:id='facs_13_r1l16'/>
+			</zone>
+			<zone points='170,1677 1222,1677 1222,1834 170,1834' rendition='TextRegion' subtype='paragraph' xml:id='facs_13_TextRegion_1610400054959_3001'>
+				<zone points='256,1677 1201,1677 1227,1723 256,1724' rendition='Line' xml:id='facs_13_line_1610400055005_3004'/>
+				<zone points='170,1771 1210,1771 1226,1739 170,1740' rendition='Line' xml:id='facs_13_r1l18'/>
+				<zone points='169,1827 636,1828 636,1796 574,1788 376,1795 354,1779 304,1798 286,1779 223,1779 206,1797 169,1795' rendition='Line' xml:id='facs_13_r1l19'/>
+			</zone>
+			<zone points='170,1834 170,1939 1222,1939 1222,1834' rendition='Table' xml:id='facs_13_Table_1610400745838_3153'/>
+			<zone points='170,1939 1222,1939 1222,2099 170,2099' rendition='TextRegion' subtype='paragraph' xml:id='facs_13_TextRegion_1610400091031_3021'>
+				<zone points='257,1939 732,1962 755,1939 1185,1940 1224,1944 1224,1987 257,1988' rendition='Line' xml:id='facs_13_line_1610400038154_2994'/>
+				<zone points='166,2027 1220,2043 1220,1997 1150,1989 166,2006' rendition='Line' xml:id='facs_13_r1l24'/>
+				<zone points='167,2090 1125,2090 1125,2057 1040,2044 167,2044' rendition='Line' xml:id='facs_13_r1l25'/>
+			</zone>
+			<zone points='956,2099 1222,2099 1222,2140 956,2140' rendition='TextRegion' subtype='page-number' xml:id='facs_13_TextRegion_1610400101203_3025'>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_14'>
+		<surface ulx='0' uly='0' lrx='1444' lry='2597'>
+			<graphic url='Hauptmann - 1853 - Die Natur der Harmonik und der Metrik-0021.jpg' width='1444px' height='2597px'/>
+			<zone points='209,220 1271,220 1271,261 209,261' rendition='TextRegion' subtype='page-number' xml:id='facs_14_TextRegion_1610402310077_3320'>
+				<zone points='717,251 753,251 753,213 744,213 743,211 728,211 727,213 717,213' rendition='Line' xml:id='facs_14_r1l1'/>
+			</zone>
+			<zone points='209,261 1271,261 1271,617 209,617' rendition='TextRegion' subtype='paragraph' xml:id='facs_14_TextRegion_1610402310077_3319'>
+				<zone points='289,347 1261,338 1261,312 1151,300 289,307' rendition='Line' xml:id='facs_14_r1l2'/>
+				<zone points='203,401 1263,395 1272,357 203,359' rendition='Line' xml:id='facs_14_r1l3'/>
+				<zone points='206,450 1247,451 1264,418 206,420' rendition='Line' xml:id='facs_14_r1l4'/>
+				<zone points='213,507 1272,505 1249,460 213,469' rendition='Line' xml:id='facs_14_r1l5'/>
+				<zone points='205,554 1261,551 1213,515 205,523' rendition='Line' xml:id='facs_14_r1l6'/>
+				<zone points='211,610 358,610 358,587 350,587 344,580 326,580 310,564 296,564 276,580 246,579 239,572 225,579 211,579' rendition='Line' xml:id='facs_14_r1l7'/>
+			</zone>
+			<zone points='209,617 1271,617 1271,1146 1271,1352 209,1352 209,1146' rendition='TextRegion' subtype='paragraph' xml:id='facs_14_TextRegion_1610468480601_212'>
+				<zone points='290,667 1265,659 1265,625 1230,619 290,619' rendition='Line' xml:id='facs_14_r1l8'/>
+				<zone points='205,713 1263,706 1263,682 1118,668 1016,693 967,668 205,680' rendition='Line' xml:id='facs_14_r1l9'/>
+				<zone points='209,770 1268,763 1240,723 209,731' rendition='Line' xml:id='facs_14_r1l10'/>
+				<zone points='205,818 1266,820 1266,787 1212,779 205,789' rendition='Line' xml:id='facs_14_r1l11'/>
+				<zone points='209,875 1265,867 1175,828 209,844' rendition='Line' xml:id='facs_14_r1l12'/>
+				<zone points='212,930 1147,932 1264,923 1264,890 212,892' rendition='Line' xml:id='facs_14_r1l13'/>
+				<zone points='209,979 1277,979 1264,948 1116,931 209,945' rendition='Line' xml:id='facs_14_r1l14'/>
+				<zone points='208,1035 359,1034 359,1001 271,995 235,999 223,989 209,988' rendition='Line' xml:id='facs_14_r1l15'/>
+				<zone points='208,1195 1262,1179 1217,1148 208,1148' rendition='Line' xml:id='facs_14_r1l19'/>
+				<zone points='209,1244 1260,1244 1276,1207 209,1209' rendition='Line' xml:id='facs_14_r1l20'/>
+				<zone points='215,1299 1267,1291 1204,1251 216,1258' rendition='Line' xml:id='facs_14_r1l21'/>
+				<zone points='208,1346 342,1346 343,1323 326,1323 319,1316 294,1316 285,1308 270,1308 262,1315 230,1308 221,1316 208,1316' rendition='Line' xml:id='facs_14_r1l22'/>
+			</zone>
+			<zone points='209,1035 1271,1035 1271,1146 209,1146' rendition='TextRegion' subtype='floating' xml:id='facs_14_TextRegion_1610468459542_198'>
+				<zone points='326,1081 1265,1078 1265,1056 1141,1043 326,1042' rendition='Line' xml:id='facs_14_r1l16'/>
+				<zone points='338,1107 786,1091 1136,1091 1158,1139 955,1146 854,1146 350,1139 338,1134' rendition='Line' xml:id='facs_14_line_1610468456043_196'/>
+			</zone>
+			<zone points='209,1352 1271,1352 1271,1933 209,1933' rendition='TextRegion' subtype='paragraph' xml:id='facs_14_TextRegion_1610402290004_3311'>
+				<zone points='301,1403 1269,1396 1269,1369 1128,1356 301,1355' rendition='Line' xml:id='facs_14_r1l23'/>
+				<zone points='210,1451 1268,1451 1268,1420 1207,1412 210,1419' rendition='Line' xml:id='facs_14_r1l24'/>
+				<zone points='214,1508 1258,1503 1222,1460 214,1475' rendition='Line' xml:id='facs_14_r1l25'/>
+				<zone points='210,1571 1266,1563 1266,1523 210,1524' rendition='Line' xml:id='facs_14_r1l26'/>
+				<zone points='209,1611 1262,1602 1212,1572 209,1579' rendition='Line' xml:id='facs_14_r1l27'/>
+				<zone points='214,1668 1266,1659 1220,1619 214,1628' rendition='Line' xml:id='facs_14_r1l28'/>
+				<zone points='217,1715 957,1731 1273,1714 1273,1681 217,1684' rendition='Line' xml:id='facs_14_r1l29'/>
+				<zone points='212,1770 1020,1779 1268,1770 1268,1738 212,1739' rendition='Line' xml:id='facs_14_r1l30'/>
+				<zone points='210,1826 1271,1827 1271,1789 1222,1780 210,1788' rendition='Line' xml:id='facs_14_r1l31'/>
+				<zone points='205,1874 1271,1874 1243,1827 205,1838' rendition='Line' xml:id='facs_14_r1l32'/>
+				<zone points='205,1921 224,1931 576,1930 577,1903 535,1899 518,1883 490,1899 427,1903 412,1892 206,1896' rendition='Line' xml:id='facs_14_r1l33'/>
+			</zone>
+			<zone points='209,1933 1271,1933 1271,2114 209,2114' rendition='TextRegion' subtype='paragraph' xml:id='facs_14_TextRegion_1610402286256_3307'>
+				<zone points='296,1987 1262,1972 1224,1940 296,1939' rendition='Line' xml:id='facs_14_r1l34'/>
+				<zone points='202,2039 1256,2035 1268,1994 202,2010' rendition='Line' xml:id='facs_14_r1l35'/>
+				<zone points='206,2091 1268,2075 1246,2044 206,2043' rendition='Line' xml:id='facs_14_r1l36'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_15'>
+		<surface ulx='0' uly='0' lrx='1444' lry='2597'>
+			<graphic url='Hauptmann - 1853 - Die Natur der Harmonik und der Metrik-0022.jpg' width='1444px' height='2597px'/>
+			<zone points='187,212 1249,212 1249,257 187,257' rendition='TextRegion' subtype='page-number' xml:id='facs_15_TextRegion_1610466928069_121'>
+				<zone points='698,247 705,248 710,252 718,252 726,247 733,248 738,218 731,217 720,204 705,202' rendition='Line' xml:id='facs_15_r1l1'/>
+			</zone>
+			<zone points='187,257 1249,257 1249,771 187,771' rendition='TextRegion' subtype='paragraph' xml:id='facs_15_TextRegion_1610466928069_120'>
+				<zone points='185,339 1245,338 1245,308 1102,300 185,300' rendition='Line' xml:id='facs_15_r1l2'/>
+				<zone points='183,395 1235,403 1224,349 183,356' rendition='Line' xml:id='facs_15_r1l3'/>
+				<zone points='186,444 1229,443 1229,404 186,404' rendition='Line' xml:id='facs_15_r1l4'/>
+				<zone points='187,498 1228,499 1228,460 1176,453 965,478 913,453 187,460' rendition='Line' xml:id='facs_15_r1l5'/>
+				<zone points='184,554 1240,563 1240,517 1207,508 184,516' rendition='Line' xml:id='facs_15_r1l6'/>
+				<zone points='185,604 1249,602 1199,560 185,572' rendition='Line' xml:id='facs_15_r1l7'/>
+				<zone points='181,656 1231,650 1231,622 1168,612 181,622' rendition='Line' xml:id='facs_15_r1l8'/>
+				<zone points='186,709 1243,705 1243,676 1133,667 186,668' rendition='Line' xml:id='facs_15_r1l9'/>
+				<zone points='187,763 1190,763 1164,723 187,716' rendition='Line' xml:id='facs_15_r1l10'/>
+			</zone>
+			<zone points='187,771 1249,771 1249,1085 187,1085' rendition='TextRegion' subtype='paragraph' xml:id='facs_15_TextRegion_1610466919055_116'>
+				<zone points='923,1085 1143,1083 1159,1085' rendition='Line' xml:id='facs_15_line_1610466913837_114'/>
+				<zone points='270,812 1243,818 1243,779 1180,771 270,772' rendition='Line' xml:id='facs_15_r1l11'/>
+				<zone points='181,867 1171,875 1246,866 1246,837 181,839' rendition='Line' xml:id='facs_15_r1l12'/>
+				<zone points='185,923 1245,923 1245,882 1190,876 185,876' rendition='Line' xml:id='facs_15_r1l13'/>
+				<zone points='182,977 1242,969 1242,941 1179,931 182,939' rendition='Line' xml:id='facs_15_r1l14'/>
+				<zone points='189,1027 1229,1027 1229,980 189,995' rendition='Line' xml:id='facs_15_r1l15'/>
+				<zone points='191,1083 1023,1074 976,1036 191,1036' rendition='Line' xml:id='facs_15_r1l16'/>
+			</zone>
+			<zone points='187,1085 1249,1085 1249,1400 187,1400' rendition='TextRegion' subtype='paragraph' xml:id='facs_15_TextRegion_1610467193804_130'>
+				<zone points='266,1091 923,1085 1159,1085 1217,1092 1235,1127 266,1131' rendition='Line' xml:id='facs_15_line_1610466913837_113'/>
+				<zone points='188,1187 1119,1195 1247,1186 1247,1140 188,1148' rendition='Line' xml:id='facs_15_r1l18'/>
+				<zone points='189,1236 1247,1225 1085,1188 189,1195' rendition='Line' xml:id='facs_15_r1l19'/>
+				<zone points='195,1291 1231,1290 1215,1244 195,1244' rendition='Line' xml:id='facs_15_r1l20'/>
+				<zone points='185,1346 1241,1338 1208,1300 185,1302' rendition='Line' xml:id='facs_15_r1l21'/>
+				<zone points='185,1395 1192,1395 1192,1363 1131,1348 185,1363' rendition='Line' xml:id='facs_15_r1l22'/>
+			</zone>
+			<zone points='187,1400 1249,1400 1249,1452 187,1452' rendition='TextRegion' subtype='paragraph' xml:id='facs_15_TextRegion_1610467193804_129'>
+				<zone points='268,1450 1215,1443 1215,1411 1169,1403 268,1404' rendition='Line' xml:id='facs_15_r1l23'/>
+			</zone>
+			<zone points='187,1452 1249,1452 1249,1560 187,1560' rendition='Table' subtype='floating' xml:id='facs_15_Table_1610468121424_146'/>
+			<zone points='187,1560 1249,1560 1249,2551 187,2551' rendition='TextRegion' subtype='paragraph' xml:id='facs_15_TextRegion_1610466892851_98'>
+				<zone points='188,1603 1246,1603 1246,1570 188,1571' rendition='Line' xml:id='facs_15_r1l28'/>
+				<zone points='195,1658 1241,1658 1224,1612 195,1620' rendition='Line' xml:id='facs_15_r1l29'/>
+				<zone points='189,1722 1184,1714 1246,1707 1246,1667 189,1675' rendition='Line' xml:id='facs_15_r1l30'/>
+				<zone points='195,1763 1223,1763 1240,1726 194,1731' rendition='Line' xml:id='facs_15_r1l31'/>
+				<zone points='195,1819 1227,1820 1239,1780 194,1780' rendition='Line' xml:id='facs_15_r1l32'/>
+				<zone points='195,1867 1244,1867 1244,1823 195,1831' rendition='Line' xml:id='facs_15_r1l33'/>
+				<zone points='193,1923 1230,1915 1240,1883 193,1885' rendition='Line' xml:id='facs_15_r1l34'/>
+				<zone points='191,1971 1017,1979 1236,1971 1236,1935 191,1940' rendition='Line' xml:id='facs_15_r1l35'/>
+				<zone points='197,2028 1247,2010 1194,1973 746,2002 197,1981' rendition='Line' xml:id='facs_15_r1l36'/>
+				<zone points='192,2090 1126,2083 1256,2074 1256,2040 192,2044' rendition='Line' xml:id='facs_15_r1l37'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_16'>
+		<surface ulx='0' uly='0' lrx='1444' lry='2597'>
+			<graphic url='Hauptmann - 1853 - Die Natur der Harmonik und der Metrik-0023.jpg' width='1444px' height='2597px'/>
+			<zone points='194,215 1252,215 1252,256 194,256' rendition='TextRegion' subtype='page-number' xml:id='facs_16_TextRegion_1610468189428_170'>
+				<zone points='708,246 716,247 719,251 732,251 740,253 747,206 715,202' rendition='Line' xml:id='facs_16_r1l1'/>
+			</zone>
+			<zone points='194,256 1252,256 1252,1033 194,1033' rendition='TextRegion' subtype='paragraph' xml:id='facs_16_TextRegion_1610468189428_169'>
+				<zone points='195,343 1217,339 1243,306 195,307' rendition='Line' xml:id='facs_16_r1l2'/>
+				<zone points='194,394 1233,395 1255,363 194,364' rendition='Line' xml:id='facs_16_r1l3'/>
+				<zone points='201,451 1250,436 1190,403 201,411' rendition='Line' xml:id='facs_16_r1l4'/>
+				<zone points='192,499 1166,507 1254,498 1254,451 1167,476 192,466' rendition='Line' xml:id='facs_16_r1l5'/>
+				<zone points='199,556 1254,553 1254,515 1214,507 199,515' rendition='Line' xml:id='facs_16_r1l6'/>
+				<zone points='190,607 1254,610 1229,563 190,567' rendition='Line' xml:id='facs_16_r1l7'/>
+				<zone points='200,659 1248,666 1248,620 200,621' rendition='Line' xml:id='facs_16_r1l8'/>
+				<zone points='195,715 1254,699 1071,668 195,675' rendition='Line' xml:id='facs_16_r1l9'/>
+				<zone points='193,763 1245,756 1245,728 1152,715 802,744 193,724' rendition='Line' xml:id='facs_16_r1l10'/>
+				<zone points='200,820 1259,816 1258,778 1216,774 200,772' rendition='Line' xml:id='facs_16_r1l11'/>
+				<zone points='197,863 1100,878 1233,867 1251,834 196,828' rendition='Line' xml:id='facs_16_r1l12'/>
+				<zone points='198,924 1248,915 1202,876 198,883' rendition='Line' xml:id='facs_16_r1l13'/>
+				<zone points='196,979 1253,971 1166,931 196,938' rendition='Line' xml:id='facs_16_r1l14'/>
+				<zone points='193,1017 666,1027 666,999 621,987 577,1001 510,987 193,995' rendition='Line' xml:id='facs_16_r1l15'/>
+			</zone>
+			<zone points='194,1033 1252,1033 1252,1347 194,1347' rendition='TextRegion' subtype='paragraph' xml:id='facs_16_TextRegion_1610468185937_165'>
+				<zone points='288,1082 1186,1091 1255,1082 1256,1043 288,1043' rendition='Line' xml:id='facs_16_r1l16'/>
+				<zone points='198,1135 1250,1138 1250,1097 1211,1091 198,1095' rendition='Line' xml:id='facs_16_r1l17'/>
+				<zone points='195,1185 1252,1190 1252,1155 1214,1148 195,1154' rendition='Line' xml:id='facs_16_r1l18'/>
+				<zone points='196,1243 1252,1234 1222,1195 1090,1219 1032,1195 196,1198' rendition='Line' xml:id='facs_16_r1l19'/>
+				<zone points='199,1292 764,1307 1228,1291 1252,1258 199,1259' rendition='Line' xml:id='facs_16_r1l20'/>
+				<zone points='205,1346 338,1347 338,1322 330,1321 316,1308 289,1313 282,1309 240,1308 236,1312 226,1309 219,1315 206,1315' rendition='Line' xml:id='facs_16_r1l21'/>
+			</zone>
+			<zone points='194,1347 1252,1347 1252,1933 194,1933' rendition='TextRegion' subtype='paragraph' xml:id='facs_16_TextRegion_1610468182628_161'>
+				<zone points='282,1404 1247,1395 1196,1355 760,1378 282,1355' rendition='Line' xml:id='facs_16_r1l22'/>
+				<zone points='196,1460 1144,1460 1253,1450 1253,1417 196,1420' rendition='Line' xml:id='facs_16_r1l23'/>
+				<zone points='194,1507 1241,1504 1241,1471 1199,1460 194,1462' rendition='Line' xml:id='facs_16_r1l24'/>
+				<zone points='192,1555 1248,1564 1239,1515 192,1525' rendition='Line' xml:id='facs_16_r1l25'/>
+				<zone points='200,1611 1245,1617 1245,1579 1188,1563 201,1579' rendition='Line' xml:id='facs_16_r1l26'/>
+				<zone points='196,1668 1256,1665 1231,1620 196,1627' rendition='Line' xml:id='facs_16_r1l27'/>
+				<zone points='198,1715 1252,1715 1252,1681 198,1684' rendition='Line' xml:id='facs_16_r1l28'/>
+				<zone points='201,1771 1047,1779 1233,1771 1255,1739 200,1732' rendition='Line' xml:id='facs_16_r1l29'/>
+				<zone points='201,1819 1250,1819 1215,1780 201,1781' rendition='Line' xml:id='facs_16_r1l30'/>
+				<zone points='197,1875 1257,1876 1257,1843 1207,1828 197,1835' rendition='Line' xml:id='facs_16_r1l31'/>
+				<zone points='195,1930 973,1931 973,1898 884,1883 195,1893' rendition='Line' xml:id='facs_16_r1l32'/>
+			</zone>
+			<zone points='194,1933 1252,1933 1252,2100 194,2100' rendition='TextRegion' subtype='paragraph' xml:id='facs_16_TextRegion_1610468221232_179'>
+				<zone points='273,1978 1246,1985 1246,1949 1212,1939 273,1940' rendition='Line' xml:id='facs_16_r1l33'/>
+				<zone points='187,2032 1251,2026 1160,1988 187,2000' rendition='Line' xml:id='facs_16_r1l34'/>
+				<zone points='193,2082 601,2100 627,2080 800,2099 981,2081 981,2052 918,2043 194,2052' rendition='Line' xml:id='facs_16_r1l35'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_17'>
+		<surface ulx='0' uly='0' lrx='1444' lry='2597'>
+			<graphic url='Hauptmann - 1853 - Die Natur der Harmonik und der Metrik-0024.jpg' width='1444px' height='2597px'/>
+			<zone points='174,249 1234,249 1234,295 174,295' rendition='TextRegion' subtype='page-number' xml:id='facs_17_TextRegion_1610479499638_485'>
+				<zone points='688,283 701,283 702,285 704,283 708,284 713,282 722,283 726,250 716,249 712,244 692,242' rendition='Line' xml:id='facs_17_r1l1'/>
+			</zone>
+			<zone points='174,295 1234,295 1234,753 174,753' rendition='TextRegion' subtype='paragraph' xml:id='facs_17_TextRegion_1610479499638_484'>
+				<zone points='255,378 1236,387 1236,348 1111,340 255,339' rendition='Line' xml:id='facs_17_r1l2'/>
+				<zone points='175,428 1229,444 1199,388 176,381' rendition='Line' xml:id='facs_17_r1l3'/>
+				<zone points='181,483 1227,485 1227,459 1115,443 182,438' rendition='Line' xml:id='facs_17_r1l4'/>
+				<zone points='180,532 1236,540 1236,507 1012,492 792,519 684,492 180,498' rendition='Line' xml:id='facs_17_r1l5'/>
+				<zone points='177,587 1235,594 1190,548 178,545' rendition='Line' xml:id='facs_17_r1l6'/>
+				<zone points='180,643 1241,650 1208,604 181,598' rendition='Line' xml:id='facs_17_r1l7'/>
+				<zone points='176,691 1227,695 1055,652 176,659' rendition='Line' xml:id='facs_17_r1l8'/>
+				<zone points='173,708 271,701 333,710 359,699 449,714 472,700 487,716 537,723 537,747 343,739 279,753 250,753 173,745' rendition='Line' xml:id='facs_17_line_1610479493749_482'/>
+			</zone>
+			<zone points='174,753 1234,753 1234,1178 174,1178' rendition='TextRegion' subtype='paragraph' xml:id='facs_17_TextRegion_1610479493630_478'>
+				<zone points='253,792 1231,804 1231,769 1183,764 254,755' rendition='Line' xml:id='facs_17_r1l10'/>
+				<zone points='177,851 1231,858 1207,812 178,804' rendition='Line' xml:id='facs_17_r1l11'/>
+				<zone points='169,898 1232,915 1232,876 1167,867 169,860' rendition='Line' xml:id='facs_17_r1l12'/>
+				<zone points='177,955 1235,963 1235,930 1158,916 178,924' rendition='Line' xml:id='facs_17_r1l13'/>
+				<zone points='171,1019 1237,1018 1237,979 1079,971 171,978' rendition='Line' xml:id='facs_17_r1l14'/>
+				<zone points='175,1067 1231,1066 1231,1034 991,1021 175,1027' rendition='Line' xml:id='facs_17_r1l15'/>
+				<zone points='169,1115 1236,1122 1235,1089 1151,1076 169,1076' rendition='Line' xml:id='facs_17_r1l16'/>
+				<zone points='175,1172 871,1171 871,1139 774,1124 654,1141 611,1123 582,1139 175,1131' rendition='Line' xml:id='facs_17_r1l17'/>
+				<zone points='250,753 279,753 270,755' rendition='Line' xml:id='facs_17_line_1610479493749_481'/>
+			</zone>
+			<zone points='174,1178 1234,1178 1234,2550 174,2550' rendition='TextRegion' subtype='paragraph' xml:id='facs_17_TextRegion_1610479487015_474'>
+				<zone points='263,1227 1080,1235 1231,1227 1232,1182 264,1179' rendition='Line' xml:id='facs_17_r1l18'/>
+				<zone points='174,1276 1235,1283 1235,1244 1183,1236 174,1236' rendition='Line' xml:id='facs_17_r1l19'/>
+				<zone points='178,1330 1224,1323 1192,1292 1030,1285 178,1296' rendition='Line' xml:id='facs_17_r1l20'/>
+				<zone points='170,1387 1220,1380 1192,1339 170,1347' rendition='Line' xml:id='facs_17_r1l21'/>
+				<zone points='168,1437 1223,1434 1223,1405 1087,1395 168,1402' rendition='Line' xml:id='facs_17_r1l22'/>
+				<zone points='170,1491 1201,1492 1224,1455 170,1459' rendition='Line' xml:id='facs_17_r1l23'/>
+				<zone points='168,1544 1225,1538 1188,1500 168,1509' rendition='Line' xml:id='facs_17_r1l24'/>
+				<zone points='168,1595 809,1586 844,1610 1216,1594 1216,1558 168,1563' rendition='Line' xml:id='facs_17_r1l25'/>
+				<zone points='174,1652 1224,1659 1224,1621 1128,1604 174,1612' rendition='Line' xml:id='facs_17_r1l26'/>
+				<zone points='174,1707 1229,1698 1167,1660 174,1663' rendition='Line' xml:id='facs_17_r1l27'/>
+				<zone points='178,1755 1215,1756 1225,1706 178,1724' rendition='Line' xml:id='facs_17_r1l28'/>
+				<zone points='169,1811 1228,1811 1228,1771 1193,1764 169,1764' rendition='Line' xml:id='facs_17_r1l29'/>
+				<zone points='174,1875 1218,1851 1094,1819 174,1828' rendition='Line' xml:id='facs_17_r1l30'/>
+				<zone points='170,1915 1229,1916 1229,1881 1164,1867 170,1881' rendition='Line' xml:id='facs_17_r1l31'/>
+				<zone points='175,1969 1223,1971 1223,1931 1184,1924 175,1924' rendition='Line' xml:id='facs_17_r1l32'/>
+				<zone points='170,2019 1226,2012 1183,1980 170,1988' rendition='Line' xml:id='facs_17_r1l33'/>
+				<zone points='169,2075 1222,2075 1222,2037 1166,2029 169,2036' rendition='Line' xml:id='facs_17_r1l34'/>
+				<zone points='170,2123 1222,2122 1206,2084 170,2092' rendition='Line' xml:id='facs_17_r1l35'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id='facs_18'>
+		<surface ulx='0' uly='0' lrx='1444' lry='2597'>
+			<graphic url='Hauptmann - 1853 - Die Natur der Harmonik und der Metrik-0025.jpg' width='1444px' height='2597px'/>
+			<zone points='205,250 1268,250 1268,295 205,295' rendition='TextRegion' subtype='page-number' xml:id='facs_18_TextRegion_1610479599973_515'>
+				<zone points='717,288 725,289 726,291 732,288 734,290 740,291 749,254 742,253 740,249 737,247 726,245' rendition='Line' xml:id='facs_18_r1l1'/>
+			</zone>
+			<zone points='205,295 1268,295 1268,493 205,493' rendition='TextRegion' subtype='paragraph' xml:id='facs_18_TextRegion_1610479599973_514'>
+				<zone points='205,379 1263,379 1263,342 1135,332 205,341' rendition='Line' xml:id='facs_18_r1l2'/>
+				<zone points='210,436 1261,424 1240,387 415,413 210,387' rendition='Line' xml:id='facs_18_r1l3'/>
+				<zone points='198,454 331,451 350,459 350,490 321,491 308,486 299,493 273,493 269,490 241,491 236,486 231,491 215,491 206,482 198,482' rendition='Line' xml:id='facs_18_line_1610479594614_510'/>
+			</zone>
+			<zone points='205,493 1268,493 1268,1229 205,1229' rendition='TextRegion' subtype='paragraph' xml:id='facs_18_TextRegion_1610479594528_506'>
+				<zone points='292,493 1158,493 1268,500 1268,538 292,539' rendition='Line' xml:id='facs_18_line_1610479594614_511'/>
+				<zone points='200,595 1238,587 1253,550 200,555' rendition='Line' xml:id='facs_18_r1l6'/>
+				<zone points='207,644 1260,635 1236,596 207,596' rendition='Line' xml:id='facs_18_r1l7'/>
+				<zone points='206,698 1166,706 1268,691 1268,659 206,660' rendition='Line' xml:id='facs_18_r1l8'/>
+				<zone points='209,747 1268,747 1240,701 1205,728 1133,700 209,708' rendition='Line' xml:id='facs_18_r1l9'/>
+				<zone points='209,802 1262,801 1261,755 209,763' rendition='Line' xml:id='facs_18_r1l10'/>
+				<zone points='205,858 1262,850 1262,821 1064,812 205,819' rendition='Line' xml:id='facs_18_r1l11'/>
+				<zone points='205,908 1260,897 1239,859 205,868' rendition='Line' xml:id='facs_18_r1l12'/>
+				<zone points='202,960 1268,955 1268,915 202,931' rendition='Line' xml:id='facs_18_r1l13'/>
+				<zone points='211,1012 1265,1003 1265,980 903,965 211,977' rendition='Line' xml:id='facs_18_r1l14'/>
+				<zone points='204,1067 1258,1056 1258,1028 1158,1019 970,1019 942,1047 875,1019 204,1024' rendition='Line' xml:id='facs_18_r1l15'/>
+				<zone points='207,1115 1272,1115 1272,1085 1174,1076 1096,1099 208,1077' rendition='Line' xml:id='facs_18_r1l16'/>
+				<zone points='205,1171 1255,1171 1237,1125 205,1125' rendition='Line' xml:id='facs_18_r1l17'/>
+				<zone points='211,1228 783,1226 783,1198 752,1180 211,1187' rendition='Line' xml:id='facs_18_r1l18'/>
+			</zone>
+			<zone points='205,1229 1268,1229 1268,2020 205,2020' rendition='TextRegion' subtype='paragraph' xml:id='facs_18_TextRegion_1610479586411_500'>
+				<zone points='292,1229 352,1229 1257,1244 1248,1275 292,1276' rendition='Line' xml:id='facs_18_line_1610479586493_503'/>
+				<zone points='209,1331 1255,1329 1231,1284 209,1285' rendition='Line' xml:id='facs_18_r1l20'/>
+				<zone points='212,1380 1265,1371 1173,1339 212,1340' rendition='Line' xml:id='facs_18_r1l21'/>
+				<zone points='213,1436 1265,1435 1265,1403 1142,1387 213,1403' rendition='Line' xml:id='facs_18_r1l22'/>
+				<zone points='214,1490 798,1498 940,1467 1264,1490 1272,1443 214,1445' rendition='Line' xml:id='facs_18_r1l23'/>
+				<zone points='211,1540 1260,1531 1182,1499 211,1496' rendition='Line' xml:id='facs_18_r1l24'/>
+				<zone points='207,1596 1273,1593 1273,1560 1195,1547 207,1556' rendition='Line' xml:id='facs_18_r1l25'/>
+				<zone points='207,1643 1265,1644 1265,1610 1208,1604 207,1611' rendition='Line' xml:id='facs_18_r1l26'/>
+				<zone points='212,1698 1265,1698 1265,1668 1163,1652 213,1655' rendition='Line' xml:id='facs_18_r1l27'/>
+				<zone points='213,1754 1269,1756 1270,1716 213,1716' rendition='Line' xml:id='facs_18_r1l28'/>
+				<zone points='214,1803 1267,1794 1237,1764 214,1759' rendition='Line' xml:id='facs_18_r1l29'/>
+				<zone points='203,1860 1258,1857 1241,1821 1096,1811 203,1812' rendition='Line' xml:id='facs_18_r1l30'/>
+				<zone points='204,1908 1273,1913 1240,1868 204,1876' rendition='Line' xml:id='facs_18_r1l31'/>
+				<zone points='204,1956 1274,1960 1274,1932 1119,1917 204,1929' rendition='Line' xml:id='facs_18_r1l32'/>
+				<zone points='205,2017 587,2018 587,1983 572,1979 311,1972 287,1986 255,1972 205,1974' rendition='Line' xml:id='facs_18_r1l33'/>
+			</zone>
+			<zone points='205,2020 1268,2020 1268,2151 205,2151' rendition='TextRegion' subtype='paragraph' xml:id='facs_18_TextRegion_1610479635488_523'>
+				<zone points='290,2068 1271,2067 1248,2027 290,2028' rendition='Line' xml:id='facs_18_r1l34'/>
+				<zone points='205,2122 1268,2123 1268,2091 1082,2076 205,2078' rendition='Line' xml:id='facs_18_r1l35'/>
+			</zone>
+		</surface>
+	</facsimile>
+	<text>
+		<body>
+			<pb facs='#facs_13' n='13'/>
+			<p facs='#facs_13_TextRegion_1610400076668_3016'>
+				<lg>
+					<l facs='#facs_13_r1l1'><hi rend='fontSize:0.0; kerning:0; bold:true;'>EINLEITUNG.</hi></l>
+				</lg>
+			</p>
+			<p facs='#facs_13_TextRegion_1610400076668_3015'>
+				<lg>
+					<l facs='#facs_13_r1l2'>Es war immer gebräuchlich, den Lehrbüchern des Ge¬</l>
+					<l facs='#facs_13_r1l3'>neralbasses und der Composition ein akustisches Capitel</l>
+					<l facs='#facs_13_r1l4'>vorangehen zu lassen. In diesem werden die Verhältnisse</l>
+					<l facs='#facs_13_r1l5'>der Intervalle in bekannter Weise nach Schwingungszahl</l>
+					<l facs='#facs_13_r1l6'>oder nach Saitenlänge dargelegt: Das Verhältniss der Octav</l>
+					<l facs='#facs_13_r1l7'>als 1:2; der Quint, 2:3; der Quart, 3:4; der grossen</l>
+					<l facs='#facs_13_r1l8'>Terz, 4:5; der kleinen Terz, 5:6; der grossen Secund,</l>
+					<l facs='#facs_13_r1l9'>8:9 und 9:10; der kleinen Secund 15:16.</l>
+				</lg>
+			</p>
+			<p facs='#facs_13_TextRegion_1610400066058_3011'>
+				<lg>
+					<l facs='#facs_13_r1l10'>Im Schwingungsverhältniss wird die grössere Zahl dem</l>
+					<l facs='#facs_13_r1l11'>höhern Tone des Intervalles zukommen, im Verhältniss der</l>
+					<l facs='#facs_13_r1l12'>Saitenlänge wird dieser durch die kleinere Zahl bezeichnet.</l>
+				</lg>
+			</p>
+			<p facs='#facs_13_TextRegion_1610400062505_3007'>
+				<lg>
+					<l facs='#facs_13_r1l13'>Die meisten Theoretiker finden sodann in den Zahlen</l>
+					<l facs='#facs_13_r1l14'>1, 3 und 5, in ihren Verdoppelungen, Potenzen und wech¬</l>
+					<l facs='#facs_13_r1l15'>selseitigen Producten die Bestimmung aller harmonischen</l>
+					<l facs='#facs_13_r1l16'>Tonverhältnisse.</l>
+				</lg>
+			</p>
+			<p facs='#facs_13_TextRegion_1610400054959_3001'>
+				<lg>
+					<l facs='#facs_13_line_1610400055005_3004'>Einige suchen dieselbe in der fortlaufenden Zahlenreihe</l>
+					<l facs='#facs_13_r1l18'>von 1 bis 16 und legen den Gliedern dieser Reihe die Töne</l>
+					<l facs='#facs_13_r1l19'>auf folgende Weise unter:</l>
+				</lg>
+			</p>
+			<p facs='#facs_13_TextRegion_1610400091031_3021'>
+				<lg>
+					<l facs='#facs_13_line_1610400038154_2994'>Die zu den Zahlen 7, 11, 13 und 14 gesetzten Töne</l>
+					<l facs='#facs_13_r1l24'>wollen allerdings der reinen Intonation nicht entsprechen;</l>
+					<l facs='#facs_13_r1l25'><hi rend='italic:true; fontSize:0.0; kerning:0;'>b</hi> wird zu tief, <hi rend='italic:true; fontSize:0.0; kerning:0;'>f</hi> zu hoch, <hi rend='italic:true; fontSize:0.0; kerning:0;'>a</hi> wieder zu tief erscheinen.</l>
+				</lg>
+			</p>
+			<pb facs='#facs_14' n='14'/>
+			<p facs='#facs_14_TextRegion_1610402310077_3320'>
+				<lg>
+					<l facs='#facs_14_r1l1'>2</l>
+				</lg>
+			</p>
+			<p facs='#facs_14_TextRegion_1610402310077_3319'>
+				<lg>
+					<l facs='#facs_14_r1l2'>Dies nöthigt zu Modification der betreffenden Tonstu¬</l>
+					<l facs='#facs_14_r1l3'>fen, zu Erhöhung und Vertiefung derselben und man nimmt</l>
+					<l facs='#facs_14_r1l4'>dabei wohl Veranlassung, vom Unterschiede eines naturli¬</l>
+					<l facs='#facs_14_r1l5'>chen und eines künstlichen Tonsystems zu sprechen, wie</l>
+					<l facs='#facs_14_r1l6'>von dem Unterschiede eines rohen und eines civilisirten Zu¬</l>
+					<l facs='#facs_14_r1l7'>standes. —</l>
+				</lg>
+			</p>
+			<p facs='#facs_14_TextRegion_1610468480601_212'>
+				<lg>
+					<l facs='#facs_14_r1l8'>Manche Autoren haben die obige Reihe auch weiter</l>
+					<l facs='#facs_14_r1l9'>fortsetzen zu müssen geglaubt und legen den neueintreten¬</l>
+					<l facs='#facs_14_r1l10'>den aus der Reihe 1 — 16 noch nicht benannten Zahlen die</l>
+					<l facs='#facs_14_r1l11'>den diatonischen Tönen zwischenliegenden chromatischen</l>
+					<l facs='#facs_14_r1l12'>unter, indem sie dann in jener der Zahl 11 den Ton <hi rend='italic:true; fontSize:0.0; kerning:0;'>fis</hi> an¬</l>
+					<l facs='#facs_14_r1l13'>statt des Tones <hi rend='italic:true; fontSize:0.0; kerning:0;'>f</hi> zugetheilt haben, um den letzteren für</l>
+					<l facs='#facs_14_r1l14'>die Zahl 21, <hi rend='italic:true; fontSize:0.0; kerning:0;'>fis</hi> für die Zahl 22 in Anspruch nehmen zu</l>
+					<l facs='#facs_14_r1l15'>können:</l>
+					<head>
+						<meta charset="UTF-8">
+						<meta name="viewport" content="width=device-width, initial-scale=1.0">
+						<meta http-equiv="X-UA-Compatible" content="ie=edge">
+						<title>TEI Publisher Webcomponents Example</title>
+						<script src="https://unpkg.com/@webcomponents/webcomponentsjs@2.4.3/webcomponents-loader.js"></script>
+						<script type="module" src="https://unpkg.com/@teipublisher/pb-components@latest/dist/pb-components-bundle.js"></script>
+						<script type="module" src="https://unpkg.com/@teipublisher/pb-components@latest/dist/pb-leaflet-map.js"></script>
+						<style> 
+							@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto&display=swap');
+							body {
+								margin: 10px 20px;
+								font-size: 16px;
+								font-family: 'Roboto', 'Noto', sans - serif;
+								line-height: 1.42857;
+								font-weight: 300;
+								color: #333333;
+								--paper-tooltip-delay-in: 200;
+							}
+							pb-mei {
+								max-width: 1024px;
+								width: 100%;
+								max-height: 480px;
+								margin: 40px 0;
+								padding: 20px 0;
+								border-bottom: 1px solid #919191;
+								border-top: 1px solid #919191;
+							}
+							pb-mei:first-child {
+								margin-top: 0;
+							}
+						</style>          
+					</head>
+					<body>
+							<pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher">
+							<main>
+								<p>This first file is a sample file provided by the Music Encoding Initiative on Github.</p>
+								<pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
+								</pb-mei>
+								<p>Those next files are from our projet, but don't render correctly.</p>
+								<pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/RIE1880-0017-02.mei">
+								</pb-mei>
+								<pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/RIE1880-0017-02.mei">
+								</pb-mei>
+								<pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/WEI1860-0072-02.mei">
+								</pb-mei>
+							</main>
+						</pb-page>
+					</body>
+					<l facs='#facs_14_r1l19'>Mit Ausnahme der Bestimmung für den Ton <hi rend='italic:true; fontSize:0.0; kerning:0;'>gis</hi>, die in die¬</l>
+					<l facs='#facs_14_r1l20'>ser Reihe durch die Zahl 25 geschieht, entspricht hier nicht</l>
+					<l facs='#facs_14_r1l21'>eine dem wahren Verhältnisse dieser chromatischen Ton¬</l>
+					<l facs='#facs_14_r1l22'>stufen.</l>
+				</lg>
+			</p>
+			<p facs='#facs_14_TextRegion_1610468459542_198'>
+				<lg>
+					<l facs='#facs_14_r1l16'>		16	 17	18	19	20	24	22	23	24	25........</l>
+					<l facs='#facs_14_line_1610468456043_196'>		c	cis	d	dis	e	f	fis	ges	g	gis</l>
+				</lg>
+			</p>
+			<p facs='#facs_14_TextRegion_1610402290004_3311'>
+				<lg>
+					<l facs='#facs_14_r1l23'>Ueber die Theorie, welche in dem Mitklingen der soge¬</l>
+					<l facs='#facs_14_r1l24'>nannten Aliquottöne den Grund aller Harmonie nachweisen</l>
+					<l facs='#facs_14_r1l25'>will, ist nur zu bemerken, dass wenn zu einem angeschla¬</l>
+					<l facs='#facs_14_r1l26'>genen Grundtone die Duodecime und die Decime der Octav</l>
+					<l facs='#facs_14_r1l27'>sich am vernehmlichsten als mitklingende Töne hören las¬</l>
+					<l facs='#facs_14_r1l28'>sen, die übrigen Töne der Reihe, und zwar der in das Un¬</l>
+					<l facs='#facs_14_r1l29'>endliche fortgesetzten Reihe, nicht weniger Aliquottöne zu</l>
+					<l facs='#facs_14_r1l30'>nennen sind und zu den mitklingenden begriffen werden</l>
+					<l facs='#facs_14_r1l31'>müssen, wie auch die mit den Zahlen 7 und 9 bestimmten</l>
+					<l facs='#facs_14_r1l32'>Tonstufen nicht selten noch ganz deutlich als mitklingende</l>
+					<l facs='#facs_14_r1l33'>vernommen werden.</l>
+				</lg>
+			</p>
+			<p facs='#facs_14_TextRegion_1610402286256_3307'>
+				<lg>
+					<l facs='#facs_14_r1l34'>Zudem ergibt sich hier, wenn auch allein das Mitklin¬</l>
+					<l facs='#facs_14_r1l35'>gen der Töne der ersten vier Zahlen, als das vernehmlichste</l>
+					<l facs='#facs_14_r1l36'>in Anschlag gebracht wird, nur die Harmonie des Durdrei¬</l>
+				</lg>
+			</p>
+			<pb facs='#facs_15' n='15'/>
+			<p facs='#facs_15_TextRegion_1610466928069_121'>
+				<lg>
+					<l facs='#facs_15_r1l1'>3</l>
+				</lg>
+			</p>
+			<p facs='#facs_15_TextRegion_1610466928069_120'>
+				<lg>
+					<l facs='#facs_15_r1l2'>klanges. Der Molldreiklang ist in der fortgesetzten Reihe zwar</l>
+					<l facs='#facs_15_r1l3'>aufzufinden, in der Verbindung der Glieder: 10, 12 und 15,</l>
+					<l facs='#facs_15_r1l4'>als <hi rend='italic:true; fontSize:0.0; kerning:0;'>e</hi>, <hi rend='italic:true; fontSize:0.0; kerning:0;'>g</hi> und <hi rend='italic:true; fontSize:0.0; kerning:0;'>h</hi>; da er hier aber nicht von der zuerst als Grund¬</l>
+					<l facs='#facs_15_r1l5'>ton angenommenen Einheit direct ausgeht, auch die Zwi¬</l>
+					<l facs='#facs_15_r1l6'>schenglieder 11, 13 und 14 zu übergehen nöthigen würde,</l>
+					<l facs='#facs_15_r1l7'>so glaubt man nach dieser Lehre sich weniger berechtigt, ihn</l>
+					<l facs='#facs_15_r1l8'>als naturliche Production und dem Durdreiklange ebenbür¬</l>
+					<l facs='#facs_15_r1l9'>tig zu achten, und hat den Molldreiklang, dem »naturlichen«</l>
+					<l facs='#facs_15_r1l10'>Durdreiklange gegenüber, einen »kunstlichen« genannt. —</l>
+				</lg>
+			</p>
+			<p facs='#facs_15_TextRegion_1610466919055_116'>
+				<lg>
+					<l facs='#facs_15_line_1610466913837_114'>Besser dürfte sich die Ansicht bewähren, dass alle un¬</l>
+					<l facs='#facs_15_r1l11'>Wenn wir von dieser Aliquoten-Theorie wohl absehen</l>
+					<l facs='#facs_15_r1l12'>dürfen, so offenbart auch die vorhergehend bezeichnete, die</l>
+					<l facs='#facs_15_r1l13'>in der arithmetisch fortgesetzten Zahlenreihe den Aufschluss</l>
+					<l facs='#facs_15_r1l14'>der Harmonie zu finden meint, in dieser ersten Annahme</l>
+					<l facs='#facs_15_r1l15'>schon entschieden Unwahres, mit der Beschaffenheit des musi¬</l>
+					<l facs='#facs_15_r1l16'>kalisch-Naturlichen nicht Uebereinstimmendes.</l>
+				</lg>
+			</p>
+			<p facs='#facs_15_TextRegion_1610467193804_130'>
+				<lg>
+					<l facs='#facs_15_line_1610466913837_113'>Besser dürfte sich die Ansicht bewähren, dass alle un¬</l>
+					<l facs='#facs_15_r1l18'>sere harmonischen Bestimmungen aus den Zahlen 1, 3 und</l>
+					<l facs='#facs_15_r1l19'>5, ihren Verdoppelungen, Potenzen und wechselseitigen Pro¬</l>
+					<l facs='#facs_15_r1l20'>ducten hervorgehen. Diese Annahme enthält Nichts der Wirk¬</l>
+					<l facs='#facs_15_r1l21'>lichkeit widersprechendes; sie hat aber auf keine Weise</l>
+					<l facs='#facs_15_r1l22'>noch zu einer weiteren Erklärung der Harmonie geführt.</l>
+				</lg>
+			</p>
+			<p facs='#facs_15_TextRegion_1610467193804_129'>
+				<lg>
+					<l facs='#facs_15_r1l23'>Die aus diesen Bedingungen resultirende Zahlenreihe:</l>
+				</lg>
+			</p>
+			<p facs='#facs_15_TextRegion_1610466892851_98'>
+				<lg>
+					<l facs='#facs_15_r1l28'>scheidet zwar die unharmonischen Töne der arithmetischen</l>
+					<l facs='#facs_15_r1l29'>aus; sie producirt aber nur die nach der Oberdominantseite</l>
+					<l facs='#facs_15_r1l30'>gelegenen harmonischen: es kann in ihr nie die Unterquint</l>
+					<l facs='#facs_15_r1l31'>zum Vorschein kommen. Ferner gewährt sie noch nicht ein¬</l>
+					<l facs='#facs_15_r1l32'>mal eine fest abgrenzende Bestimmung für den Dreiklang;</l>
+					<l facs='#facs_15_r1l33'>eben so wenig ist für consonante und dissonante Intervalle</l>
+					<l facs='#facs_15_r1l34'>ein schlagender Unterschied nachgewiesen: denn wenn die¬</l>
+					<l facs='#facs_15_r1l35'>ser letztere nur durch ein Mehr oder Weniger der »Ein¬</l>
+					<l facs='#facs_15_r1l36'>fachheit« oder »Fasslichkeit« des Klangverhältnisses be¬</l>
+					<l facs='#facs_15_r1l37'>gründet sein soll, wie so oft gesagt und nachgesprochen</l>
+				</lg>
+			</p>
+			<pb facs='#facs_16' n='16'/>
+			<p facs='#facs_16_TextRegion_1610468189428_170'>
+				<lg>
+					<l facs='#facs_16_r1l1'>4</l>
+				</lg>
+			</p>
+			<p facs='#facs_16_TextRegion_1610468189428_169'>
+				<lg>
+					<l facs='#facs_16_r1l2'>worden ist, so bedarf es nur der schlichtesten Wahrneh¬</l>
+					<l facs='#facs_16_r1l3'>mung, um zu erfahren, dass zwischen Consonanz und Disso¬</l>
+					<l facs='#facs_16_r1l4'>nanz eine andere als eine blosse Gradverschiedenheit be¬</l>
+					<l facs='#facs_16_r1l5'>steht. Wenn wir die Töne der Verhältnisse 2:3, 4:5, 5:6</l>
+					<l facs='#facs_16_r1l6'>als consonante Intervalle, als Uebereinstimmung je zweier</l>
+					<l facs='#facs_16_r1l7'>Klänge vernehmen, die Töne der Verhältnisse 8:9, 9:10,</l>
+					<l facs='#facs_16_r1l8'>15:16 aber als Intervalle, die entschieden <hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>nicht</hi> consonant,</l>
+					<l facs='#facs_16_r1l9'><hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>nicht</hi> zusammenstimmend sind und in ihrem Zusammen¬</l>
+					<l facs='#facs_16_r1l10'>klange nicht fortbestehen können, wie es die der vorherge¬</l>
+					<l facs='#facs_16_r1l11'>henden Verhälthisse können, so wird von einem <hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>Mehr</hi> oder</l>
+					<l facs='#facs_16_r1l12'><hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>Weniger</hi> von Fasslichkeit allein, von einem nur <hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>quanti¬</hi></l>
+					<l facs='#facs_16_r1l13'><hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>tativen</hi> Unterschiede unter den Verhältnissen dieser In¬</l>
+					<l facs='#facs_16_r1l14'>tervalle nicht die Rede sein können, es wird ein <hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>qualita¬</hi></l>
+					<l facs='#facs_16_r1l15'><hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>tiver</hi> nachzuweisen sein.</l>
+				</lg>
+			</p>
+			<p facs='#facs_16_TextRegion_1610468185937_165'>
+				<lg>
+					<l facs='#facs_16_r1l16'>Wo nun diese ersten Bestimmungen noch fehlen, da</l>
+					<l facs='#facs_16_r1l17'>dürfen wir eine theoretische Begründung der Harmonie im</l>
+					<l facs='#facs_16_r1l18'>weiteren Sinne, eine Begründung für das Gesetzmässige</l>
+					<l facs='#facs_16_r1l19'>der Accordverbindungen, der Folge von Accorden, aus sol¬</l>
+					<l facs='#facs_16_r1l20'>chen akustischen Verhältnissangaben allein wohl nicht er¬</l>
+					<l facs='#facs_16_r1l21'>warten.</l>
+				</lg>
+			</p>
+			<p facs='#facs_16_TextRegion_1610468182628_161'>
+				<lg>
+					<l facs='#facs_16_r1l22'>So sehen wir aber auch, dass jenes akustische Ein¬</l>
+					<l facs='#facs_16_r1l23'>gangscapitel in den Lehrbüchern von der darauf folgenden</l>
+					<l facs='#facs_16_r1l24'>Accord- oder Harmonielehre immer gänzlich wieder verlas¬</l>
+					<l facs='#facs_16_r1l25'>sen wird. Dasselbe ist dem Buche als Anfang vorgesetzt,</l>
+					<l facs='#facs_16_r1l26'>sein Inhalt kann aber in keiner Weise als Eingang der Lehre,</l>
+					<l facs='#facs_16_r1l27'>als ein Princip gelten, aus welchem das darauf Folgende</l>
+					<l facs='#facs_16_r1l28'>sich naturgemäss entwickele, und es hat weder das Wahre</l>
+					<l facs='#facs_16_r1l29'>noch das Falsche der akustischen Voraussetzung einen wei¬</l>
+					<l facs='#facs_16_r1l30'>tern Einfluss auf die Lehre selbst, was in Rücksicht des</l>
+					<l facs='#facs_16_r1l31'>Unwahren und Halbwahren jener Voraussetzungen der Lehre</l>
+					<l facs='#facs_16_r1l32'>allerdings nur zum Vortheil gereichen kann.</l>
+				</lg>
+			</p>
+			<p facs='#facs_16_TextRegion_1610468221232_179'>
+				<lg>
+					<l facs='#facs_16_r1l33'>Es wird aber immer nicht in Abrede zu stellen sein,</l>
+					<l facs='#facs_16_r1l34'>dass eine solche Lehre zwei Anfänge hat: einen verlasse¬</l>
+					<l facs='#facs_16_r1l35'>nen, aufgegebenen, und einen fortgesetzten.</l>
+				</lg>
+			</p>
+			<pb facs='#facs_17' n='17'/>
+			<p facs='#facs_17_TextRegion_1610479499638_485'>
+				<lg>
+					<l facs='#facs_17_r1l1'>5</l>
+				</lg>
+			</p>
+			<p facs='#facs_17_TextRegion_1610479499638_484'>
+				<lg>
+					<l facs='#facs_17_r1l2'>Jenen ersten verlassenen Anfang in einem Sinne zu</l>
+					<l facs='#facs_17_r1l3'>fassen und darzustellen, dass er wirklicher Anfang werde,</l>
+					<l facs='#facs_17_r1l4'>der dahin leitet, wo die praktische Harmonie- und Compo¬</l>
+					<l facs='#facs_17_r1l5'>sitionslehre ihren Anfang nimmt, und der als wirklicher</l>
+					<l facs='#facs_17_r1l6'>Anfang auch fortwirkend in jeder Weiterbildung nur eine</l>
+					<l facs='#facs_17_r1l7'>Entfaltung oder eine Weiterverzweigung seiner selbst ist</l>
+					<l facs='#facs_17_r1l8'>und erkennen lassen muss, das ist der Zweck des gegen¬</l>
+					<l facs='#facs_17_line_1610479493749_482'>wärtigen Versuches.</l>
+				</lg>
+			</p>
+			<p facs='#facs_17_TextRegion_1610479493630_478'>
+				<lg>
+					<l facs='#facs_17_r1l10'>Der Inhalt dieses Buches kommt mit keiner praktischen</l>
+					<l facs='#facs_17_r1l11'>Compositionslehre wesentlich in Collision, sofern diese nicht</l>
+					<l facs='#facs_17_r1l12'>Unrichtiges lehrt. Noch weniger aber darf er mit <hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>dem</hi></l>
+					<l facs='#facs_17_r1l13'>collidiren, was dem gesunden Menschensinne musikalisch</l>
+					<l facs='#facs_17_r1l14'>gesund und natürlich erscheint, mit dem, was wir, wenn</l>
+					<l facs='#facs_17_r1l15'>auch nicht immer und überall in den Regeln der Lehrbücher</l>
+					<l facs='#facs_17_r1l16'>für die Composition, doch in den gesunden Compositionen</l>
+					<l facs='#facs_17_r1l17'>selbst immer und überall wiederfinden.</l>
+					<l facs='#facs_17_line_1610479493749_481'>wärtigen Versuches.</l>
+				</lg>
+			</p>
+			<p facs='#facs_17_TextRegion_1610479487015_474'>
+				<lg>
+					<l facs='#facs_17_r1l18'>Alles theoretisch bereits Nachgewiesene und praktisch</l>
+					<l facs='#facs_17_r1l19'>Bestätigte der physikalischen Klang- und Intervallen-Lehre</l>
+					<l facs='#facs_17_r1l20'>wird hier als bekannt vorausgesetzt werden. Ebenso müs¬</l>
+					<l facs='#facs_17_r1l21'>sen wir auch die Kenntniss des gesammten praktischen Mu¬</l>
+					<l facs='#facs_17_r1l22'>sikgebietes im Ganzen und in seinen einzelnen Theilen vor¬</l>
+					<l facs='#facs_17_r1l23'>aussetzen dürfen: die praktische Kenntniss der Harmonie</l>
+					<l facs='#facs_17_r1l24'>und Metrik, Beider nach allen Momenten ihres äusseren Er¬</l>
+					<l facs='#facs_17_r1l25'>scheinens, sowie die Kenntniss der gebräuchlichen techni¬</l>
+					<l facs='#facs_17_r1l26'>schen Benennungen fur alle in diese Gebiete einschlagen¬</l>
+					<l facs='#facs_17_r1l27'>den Gegenstände; denn es ist die Absicht nicht, eine Unter¬</l>
+					<l facs='#facs_17_r1l28'>weisung in diesen Dingen, ihrem äusseren Vorkommen und</l>
+					<l facs='#facs_17_r1l29'>ihrer künstlerischen Anwendung nach, oder <hi rend='fontSize:0.0; kerning:0; letterSpaced:true;'>für</hi> dieselbe hier</l>
+					<l facs='#facs_17_r1l30'>geben zu wollen, — wir haben für diesen Zweck an den ver¬</l>
+					<l facs='#facs_17_r1l31'>schiedenartigsten mehr oder minder guten und gründlichen</l>
+					<l facs='#facs_17_r1l32'>Werken keinen Mangel — sondern vielmehr ist die Absicht, eine</l>
+					<l facs='#facs_17_r1l33'>naturliche Begründung des harmonisch-metrisch Gesetzmäs¬</l>
+					<l facs='#facs_17_r1l34'>sigen zu suchen, das Princip, aus welchem die mannigfaltigen</l>
+					<l facs='#facs_17_r1l35'>Aeusserungen nach allen Seiten als von innen heraus bestimmte</l>
+				</lg>
+			</p>
+			<pb facs='#facs_18' n='18'/>
+			<p facs='#facs_18_TextRegion_1610479599973_515'>
+				<lg>
+					<l facs='#facs_18_r1l1'>6</l>
+				</lg>
+			</p>
+			<p facs='#facs_18_TextRegion_1610479599973_514'>
+				<lg>
+					<l facs='#facs_18_r1l2'>hervorgehen und sich entwickelnd gestalten zu den uns</l>
+					<l facs='#facs_18_r1l3'>bekannten, uns wieder innerlich ansprechenden Erschei¬</l>
+					<l facs='#facs_18_line_1610479594614_510'>nungen.</l>
+				</lg>
+			</p>
+			<p facs='#facs_18_TextRegion_1610479594528_506'>
+				<lg>
+					<l facs='#facs_18_line_1610479594614_511'>Dieses Gestaltungsprincip wird aber in jedem Momente</l>
+					<l facs='#facs_18_r1l6'>seines Wirkens an sich nur immer dasselbe sein und blei¬</l>
+					<l facs='#facs_18_r1l7'>ben können. In den weitesten Verhältnissen des ausgebrei¬</l>
+					<l facs='#facs_18_r1l8'>teten Tonwerkes, sofern dieses ein einiges Ganze ist, wie</l>
+					<l facs='#facs_18_r1l9'>in der engsten Einzelheit, im kleinsten Glied desselben, in</l>
+					<l facs='#facs_18_r1l10'>allen Momenten seines harmonisch-melodischen, wie auch</l>
+					<l facs='#facs_18_r1l11'>seines metrisch-rhythmischen Daseins wird immer nur</l>
+					<l facs='#facs_18_r1l12'>das eine Gesetz für die richtige, die verständliche Bil¬</l>
+					<l facs='#facs_18_r1l13'>dung nachzuweisen sein; das eben auch wieder nicht</l>
+					<l facs='#facs_18_r1l14'>ein ausschliesslich musikalisches wird sein können, son¬</l>
+					<l facs='#facs_18_r1l15'>dern vielmehr nur das ganz allgemeine, das überall wir¬</l>
+					<l facs='#facs_18_r1l16'>kende Bildungsgesetz in seiner zu musikalischer, d. h. zu</l>
+					<l facs='#facs_18_r1l17'>harmonisch-melodischer, metrisch-rhythmischer Erschei¬</l>
+					<l facs='#facs_18_r1l18'>nung gelangenden Wirksamkeit.</l>
+				</lg>
+			</p>
+			<p facs='#facs_18_TextRegion_1610479586411_500'>
+				<lg>
+					<l facs='#facs_18_line_1610479586493_503'>Die Musik ist in ihrem Ausdruck allgemein verständlich.</l>
+					<l facs='#facs_18_r1l20'>Sie ist es nicht für den Musiker allein, sie ist es für den mensch¬</l>
+					<l facs='#facs_18_r1l21'>lichen Gemeinsinn. Auch ist die Musik nicht von grundver¬</l>
+					<l facs='#facs_18_r1l22'>schiedener Beschaffenheit im Volkslied und in der Bach&apos;schen</l>
+					<l facs='#facs_18_r1l23'>Fuge, oder Beethovenschen Symphonie. Wenn der Inhalt</l>
+					<l facs='#facs_18_r1l24'>des complicirteren Kunstwerkes sein Verständniss erschwe¬</l>
+					<l facs='#facs_18_r1l25'>ren kann, so sind es doch immer dieselben im Einzelnen</l>
+					<l facs='#facs_18_r1l26'>allgemein verständlichen Ausdrucksmittel, durch welche</l>
+					<l facs='#facs_18_r1l27'>das grösste, wie das kleinste Musikstück zu uns spricht, in</l>
+					<l facs='#facs_18_r1l28'>einer Sprache sich uns mittheilt, zu der wir die Worte und die</l>
+					<l facs='#facs_18_r1l29'>Grammatik nicht erst zu lernen nöthig haben. Der Drei¬</l>
+					<l facs='#facs_18_r1l30'>klang ist für den Ungebildeten, wie für den Gebildeten con¬</l>
+					<l facs='#facs_18_r1l31'>sonant; die Dissonanz bedarf für den Nichtmusiker wie für</l>
+					<l facs='#facs_18_r1l32'>den Musiker einer Auflösung; die Discordanz ist für jedes</l>
+					<l facs='#facs_18_r1l33'>Ohr etwas Sinnloses.</l>
+				</lg>
+			</p>
+			<p facs='#facs_18_TextRegion_1610479635488_523'>
+				<lg>
+					<l facs='#facs_18_r1l34'>In keiner andern Art der Wahrnehmung wird auch wie</l>
+					<l facs='#facs_18_r1l35'>in der akustischen das Elementare des Ausdruckes mit so</l>
+				</lg>
+			</p>
+		</body>
+	</text>
+</TEI>
