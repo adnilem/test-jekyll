@@ -45,7 +45,7 @@ categories: test web component
 		    </pb-mei>
 		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
 		    </pb-mei>
-		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Grieg_op.43_butterfly.mei">
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/test3.mei">
 		    </pb-mei>
 		</main>
 	</pb-page>
