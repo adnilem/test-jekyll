@@ -1,13 +1,9 @@
 ---
-layout: page
-title: WC1
-permalink: /web-comp1/
+layout: post
+title:  "TEI Publisher | Web Component with MEI files"
+date:   2021-01-26 15:33 +0100
+categories: test web component
 ---
-
-### Web Component Test 1
-
-#### With navigation:
-
 
 <head>
     <meta charset="UTF-8">
@@ -45,20 +41,12 @@ permalink: /web-comp1/
 <body>
     	<pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher">
 		<main>
-		    <pb-mei player="" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Liszt_Four_little_pieces.mei">
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Liszt_Four_little_pieces.mei">
 		    </pb-mei>
-		    <pb-mei player="" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
 		    </pb-mei>
-		    <pb-mei player="" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Grieg_op.43_butterfly.mei">
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Grieg_op.43_butterfly.mei">
 		    </pb-mei>
 		</main>
 	</pb-page>
 </body>
-
-&nbsp;
-
-***
-
-&nbsp;
-
-Test with DEMO Mei component
