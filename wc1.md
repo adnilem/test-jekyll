@@ -1,12 +1,10 @@
 ---
 layout: page
-title: WC1
+title: //Test// pb-mei
 permalink: /web-comp1/
 ---
 
-### Web Component Test 1
-
-#### With navigation:
+# Test with the pb-mei component including demo files and ddd's files
 
 
 <head>
@@ -45,20 +43,16 @@ permalink: /web-comp1/
 <body>
     	<pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher">
 		<main>
-		    <pb-mei player="" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Liszt_Four_little_pieces.mei">
+            <p>This first file is a sample file provided by the Music Encoding Initiative on Github.</p>
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
 		    </pb-mei>
-		    <pb-mei player="" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
+            <p>Those next files are from our projet, but don't render correctly.</p>
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/RIE1880-0017-02.mei">
 		    </pb-mei>
-		    <pb-mei player="" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Grieg_op.43_butterfly.mei">
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/RIE1880-0017-02.mei">
+		    </pb-mei>
+            <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/WEI1860-0072-02.mei">
 		    </pb-mei>
 		</main>
 	</pb-page>
 </body>
-
-&nbsp;
-
-***
-
-&nbsp;
-
-Test with DEMO Mei component
