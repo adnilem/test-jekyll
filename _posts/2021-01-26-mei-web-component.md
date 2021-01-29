@@ -5,6 +5,12 @@ date:   2021-01-26 15:33 +0100
 categories: test web component
 ---
 
+# Test with the pb-mei component including demo files and ddd's files
+
+The fist viewer displays a file from [MEI Sample Encodings repository](https://github.com/music-encoding/sample-encodings) and the second a sample taken from [verovio.humdrum.org](https://verovio.humdrum.org/). Note that their file extension is not the same (.mei and .txt) but they both work fine.
+The third viewer's file is from the DDD project and the last one is the same file with some extra metadata and tags to make is as similar as the sample files as possible but the result is the same.
+The URL of those files are all raw.githubusercontent type. 
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -41,12 +47,18 @@ categories: test web component
 <body>
     	<pb-page endpoint="https://teipublisher.com/exist/apps/tei-publisher">
 		<main>
-		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Liszt_Four_little_pieces.mei">
-		    </pb-mei>
 		    <pb-mei player="true" url="https://raw.githubusercontent.com/music-encoding/sample-encodings/master/MEI_4.0/Music/Complete_examples/Joplin_Elite_Syncopations.mei">
 		    </pb-mei>
-		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/test3.mei">
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/Johannes-Ockeghem-gloria.txt">
+		    </pb-mei>
+		    <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/WEI1860-0024-01.mei">
+		    </pb-mei>
+            <pb-mei player="true" url="https://raw.githubusercontent.com/adnilem/test-site/main/MEI/WEI1860-0024-01-modified.mei">
 		    </pb-mei>
 		</main>
 	</pb-page>
 </body>
+
+# Test with Verovio and JS Toolkit
+
+The result is the same: sample files work fine but not the project's files. 
