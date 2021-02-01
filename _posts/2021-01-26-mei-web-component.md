@@ -2,7 +2,7 @@
 layout: post
 title:  "TEI Publisher | Web Component with MEI files"
 date:   2021-01-26 15:33 +0100
-categories: test web component
+categories: tei-publihser
 ---
 
 # Test with the pb-mei component including demo files and ddd's files

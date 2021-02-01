@@ -1,0 +1,18 @@
+---
+---
+
+$content-width:    1000px !default;
+$grey-color:       lightcoral !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 20%) !default;
+$text-color:       #111 !default;
+$background-color: #ececec !default;
+$brand-color:      steelblue !default;
+
+
+@import "minima";
+
+.site-header {
+    border-top: 5px solid grey-color;
+    border-bottom: 1px solid $grey-color-light;
+}
